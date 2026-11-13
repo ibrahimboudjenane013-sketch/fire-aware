@@ -1,0 +1,15 @@
+{
+  "name": "eco-geeks-club-fire-awareness",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Forest fire awareness challenge site (Eco Geeks Club)",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  },
+  "scripts": {
+    "start": "node local-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
